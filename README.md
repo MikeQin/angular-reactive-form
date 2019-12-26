@@ -1,6 +1,23 @@
-# AngularReactiveForm
+# Angular Reactive Form
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+
+## Create Project
+```
+ng new angular-reactive-form
+```
+
+## Add Bootstrap CSS
+* Get Bootstrap: https://getbootstrap.com/
+* Copy & Paste to index.html
+```
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+```
+
+## Add Registration Service
+```
+ng g s registration
+```
 
 ## Development server
 
